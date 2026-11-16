@@ -1,0 +1,6 @@
+{
+  "name": "ShopZayn",
+  "description": "ShopZayn — Modern multi-category e-commerce storefront featuring electronics, fashion, home & kitchen, beauty, watches, accessories, and sports essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
